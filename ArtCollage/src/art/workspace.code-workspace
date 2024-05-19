@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Rutgers CS-112/KammariDemo"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../lib"
+		},
+		{
+			"path": "../../bin"
+		},
+		{
+			"path": "../../../Transit"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}

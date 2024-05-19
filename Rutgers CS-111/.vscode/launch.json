@@ -1,0 +1,245 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch WeatherGenerator",
+            "request": "launch",
+            "mainClass": "WeatherGenerator",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecursiveTriangle",
+            "request": "launch",
+            "mainClass": "RecursiveTriangle",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolygonTransform",
+            "request": "launch",
+            "mainClass": "PolygonTransform",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch scrap",
+            "request": "launch",
+            "mainClass": "scrap",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryIn",
+            "request": "launch",
+            "mainClass": "BinaryIn",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryOut",
+            "request": "launch",
+            "mainClass": "BinaryOut",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryStdIn",
+            "request": "launch",
+            "mainClass": "BinaryStdIn",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryStdOut",
+            "request": "launch",
+            "mainClass": "BinaryStdOut",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckDigit",
+            "request": "launch",
+            "mainClass": "CheckDigit",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Draw",
+            "request": "launch",
+            "mainClass": "Draw",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindDuplicate",
+            "request": "launch",
+            "mainClass": "FindDuplicate",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch GrayscalePicture",
+            "request": "launch",
+            "mainClass": "GrayscalePicture",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch GuessingGaming",
+            "request": "launch",
+            "mainClass": "GuessingGaming",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch In",
+            "request": "launch",
+            "mainClass": "In",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch LargestOfFive",
+            "request": "launch",
+            "mainClass": "LargestOfFive",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyFact",
+            "request": "launch",
+            "mainClass": "MyFact",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrderCheck",
+            "request": "launch",
+            "mainClass": "OrderCheck",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Out",
+            "request": "launch",
+            "mainClass": "Out",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Picture",
+            "request": "launch",
+            "mainClass": "Picture",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomWalker",
+            "request": "launch",
+            "mainClass": "RandomWalker",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdArrayIO",
+            "request": "launch",
+            "mainClass": "StdArrayIO",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdAudio",
+            "request": "launch",
+            "mainClass": "StdAudio",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdDraw",
+            "request": "launch",
+            "mainClass": "StdDraw",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdIn",
+            "request": "launch",
+            "mainClass": "StdIn",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdOut",
+            "request": "launch",
+            "mainClass": "StdOut",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdRandom",
+            "request": "launch",
+            "mainClass": "StdRandom",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdStats",
+            "request": "launch",
+            "mainClass": "StdStats",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stopwatch",
+            "request": "launch",
+            "mainClass": "Stopwatch",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch TriangleDraw",
+            "request": "launch",
+            "mainClass": "TriangleDraw",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch WindChill",
+            "request": "launch",
+            "mainClass": "WindChill",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch inPlaceReverse",
+            "request": "launch",
+            "mainClass": "inPlaceReverse",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrix",
+            "request": "launch",
+            "mainClass": "matrix",
+            "projectName": "Rutgers CS-111_b8ccb8fc"
+        }
+    ]
+}
